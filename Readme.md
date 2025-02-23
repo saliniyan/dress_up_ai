@@ -11,7 +11,7 @@ Dress Up AI is a Python-based project that utilizes a **U-Net** model for dress 
 
 ## Input & Output
 - **Input**:  
-  - ![Person](OIP (6).jpeg)  
+  - ![Person](input.jpeg)  
     *(Image of a person wearing a dress)*
   - ![Dress](dressimage1.jpeg)  
     *(Dress to be applied)*
