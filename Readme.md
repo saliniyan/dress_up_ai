@@ -10,11 +10,12 @@ Dress Up AI is a Python-based project that utilizes a **U-Net** model for dress 
 - **Dress Overlaying**: Places the given dress onto the masked area of the image.
 
 ## Input & Output
-- **Input**: 
-  - ![person]('OIP (6).jpeg')
-  (Image of a person wearing a dress)
-  - ![person]('dressimage1.jpeg')
-  (Dress to be applied)
-- **Output**:
-  - ![output]('output.png')
-  (Final image with the applied dress)
+- **Input**:  
+  - ![Person](OIP(6).jpeg)  
+    *(Image of a person wearing a dress)*
+  - ![Dress](dressimage1.jpeg)  
+    *(Dress to be applied)*
+- **Output**:  
+  - ![Final Output](output.png)  
+    *(Final image with the applied dress)*
+
